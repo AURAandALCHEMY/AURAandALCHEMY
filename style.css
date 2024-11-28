@@ -123,23 +123,3 @@ button:hover{
     background:#4A4A4A;
 }
 
-ul.dropdown li{
-    display: block;
-}
-
-ul.dropdown{
-    width: 100%;
-    background: #EDE3D2;
-    position: absolute;
-    z-index: 999;
-    display: none;
-}
-
-ul li a:hover{
-    background-color: #8c52ff;
-}
-
-ul li:hover ul.dropdown{
-    display: block;
-}
-    
